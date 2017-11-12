@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="month">Месяц</string>
+    <string name="week">Неделя</string>
+    <string name="add_event">Добавить событие</string>
+    <string name="dialog_time">Весь день</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">Создать</string>
+    <string name="send_notification">Прислать уведомление</string>
+    <string name="everyYear">Каждый год</string>
+
+    <string-array name="eventNames">
+        <item>Выбрать тип</item>
+        <item>Шоппинг</item>
+        <item>Путешествие</item>
+        <item>День рождения</item>
+        <item>Работа</item>
+        <item>Тренировка</item>
+        <item>Праздник</item>
+    </string-array>
+
+</resources>
